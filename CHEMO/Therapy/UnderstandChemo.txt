@@ -1,0 +1,44 @@
+References
+    FightCRC: [page 18, page 22, page 25]
+    Wikipedia
+Drugs
+    Main
+        oxaliplatin (Eloxatin®)
+            Wiki: https://en.wikipedia.org/wiki/Oxaliplatin
+            中文: 奥沙利铂
+            副作用: 
+        5fu
+            Wiki: https://zh.wikipedia.org/wiki/5-%E6%B0%9F%E5%B0%BF%E5%98%A7%E5%95%B6
+            中文: 5-氟尿嘧啶
+            副作用: 药物副作用包括严重脱水、骨髓抑制、肠炎、口腔溃疡、皮炎、心绞痛以及心肌梗死、急性肾功能不全、间质性肺炎、肝功能损害、黄疸、腹泻等等。5-FU也可导致急性的中枢神经系统损伤（白质脑病），以及小鼠中枢神经系统进行性退行性改变。后者主要是5-FU对少突胶质细胞的毒性引起脱髓鞘反应所致。
+        Folinic acid
+            Wiki: https://en.wikipedia.org/wiki/Folinic_acid
+            中文: 亚叶酸
+    Others 
+        托烷司琼氯化钠(齐琼)
+            Web: http://baike.baidu.com/view/4962736.htm https://en.wikipedia.org/wiki/Tropisetron
+            作用: 止吐
+        多烯磷脂酰胆碱
+            Web: http://baike.baidu.com/view/1085569.htm
+            作用: 肝病辅助治疗药
+        谷胱甘肽
+            Web: http://baike.baidu.com/view/351008.htm https://en.wikipedia.org/wiki/Glutathione
+            作用: 護肝
+        环磷腺苷    
+            Web: http://baike.baidu.com/view/428050.htm https://en.wikipedia.org/wiki/Cyclic_adenosine_monophosphate
+            作用: 輔助其他化療步驟. ???
+Combination
+    StageIV
+        CAPOX or XELOX
+            - Capecitabine (Xeloda®) plus oxaliplatin (Eloxatin®)
+            - Capecitabine is an oral drug that works the same way as 5-FU inside the cancer cell
+        FOLFOX
+            Wiki: https://en.wikipedia.org/wiki/FOLFOX
+            Drugs: 5-FU, oxaliplatin (Eloxatin®), and leucovorin
+        FOLFIRI
+            Wiki: https://en.wikipedia.org/wiki/FOLFIRI
+            Drugs: 5-FU, irinotecan (Camptosar®), and leucovorin
+        These regimens may be combined with targeted therapies such as bevacizumab (Avastin®), cetuximab
+(Erbitux®), or panitumumab (Vectibix®)
+    
+Hypothesis: now we are experiencing FOLFOX6
