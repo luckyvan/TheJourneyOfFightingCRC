@@ -1,0 +1,33 @@
+国外:
+    NCCN: National Comprehensive Cancer Network
+        Website: https://www.nccn.org/patients/guidelines/colon/index.html 
+        描述:内容和PDF版本相同
+    NCI: National Cancer Institue
+        Website: https://www.cancer.gov/types/colorectal 
+        描述:官方机构
+    American Cancer Society
+        Website: http://www.cancer.org/
+        描述:公益组织
+    FightCRC:
+        Website: http://fightcolorectalcancer.org/
+        描述:专注肠癌的公益组织。PDF资料里面根据分期给予了指导性的意见，已下载
+        
+国内:
+    App:
+        丁香园/丁香医生: 
+            描述:前者面向医生，后者面向公众。在华为市场上下载的App会引起手机卡顿和死机。还未测试苹果版本。
+    微信公众号:
+        菠萝因子: 国外的癌症药物科研工作人员
+            著作:
+                癌症真相: 科普类很好的著作，比较系统地介绍了相关问题
+                结肠癌患者治疗指南: 和中行一位了不起的幸存者合著，未上市，焦急等待中
+    出国就医:
+        盛诺一家: 主美国。已电话沟通。业务熟练，态度热情。远程会诊目前服务为3.8w/4.8w。后者包含视频和同声传译。
+            Website: http://www.stluciabj.com/
+        厚朴方舟: 主日本
+    公益组织:
+        北京爱谱癌症患者关爱基金会
+            Website: http://www.aipufd.com/
+        中国抗癌协会康复会
+            Website: http://www.ccrs2010.org/index.html
+            
